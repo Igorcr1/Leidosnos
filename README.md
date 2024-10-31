@@ -32,5 +32,6 @@ Ou, se você não tem ideia se há o pip instalado:
 
 Caso volte um erro, recomendo baixar: https://bootstrap.pypa.io/get-pip.py 
 que é recomendada no site: https://packaging.python.org/en/latest/tutorials/installing-packages/
-Rodando o script: python3 get-pip.py
-Você conseguirá o PyQt5.
+Rodando o script: 
+> python3 get-pip.py
+Você conseguirá o Pip e é só instalar o PyQt5
